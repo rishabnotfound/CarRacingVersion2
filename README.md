@@ -14,7 +14,7 @@ Welcome to Car Racing Version 2, an upgraded edition of the thrilling car racing
 
 ## How to Play 🎮
 
-1. Open [Car Racing Version 2](https://rishab-creator.github.io/CarRacingVersion2/) in your web browser.
+1. Open [Car Racing Version 2](https://rishabnotfound.github.io/CarRacingVersion2/) in your web browser.
 2. Select your car and track preferences before starting the race.
 3. Use arrow keys or on-screen controls to steer, accelerate, and brake your car.
 4. Avoid obstacles, navigate through challenging turns, and race against opponents to reach the finish line.
