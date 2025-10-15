@@ -1,5 +1,7 @@
 # Car Racing Version 2 🏎️🏁
 
+<img width="671" height="408" alt="image" src="https://github.com/user-attachments/assets/0a4f643d-ff79-4a74-a524-ce56465a93f3" />
+
 Welcome to Car Racing Version 2, an upgraded edition of the thrilling car racing game built using HTML, CSS, and JavaScript! Get ready to hit the virtual tracks once again and experience even more excitement and challenges than before. 🚗💨
 
 ## What's New in Version 2? ✨
